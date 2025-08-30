@@ -13,3 +13,6 @@ OWASP Juice Shop • OWASP ZAP • Burp Suite • SQLMap • Kali (optional)
 ✅ Deliverables
 Task 1 Security Report (with screenshots & mitigations)
 OWASP Top 10 mapping & checklist
+
+🔗 Quick Links
+Report (PDF): Report/Task_1_OWASP_JuiceShop_Security_Assessment_Report_Vishu.pdf
